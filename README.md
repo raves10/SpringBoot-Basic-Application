@@ -8,5 +8,6 @@ It has following functionality:
 4. Editing Post.
 5. Deleting Post.
 
-Technologies Used: Core Java, SpringBoot MVC, JSP, Javascript, Ajax, MySql
+Technologies Used: Core Java, SpringBoot MVC, JSP, Javascript, Ajax, MySql.
+
 User-interface is simple without any CSS.
